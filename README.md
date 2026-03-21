@@ -1,16 +1,31 @@
-## Hi there 👋
+Hey, I’m Rohan 👋
 
-<!--
-**Rohan-1920/Rohan-1920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a MERN Stack Developer and AI enthusiast, passionate about building clean, scalable, and aesthetic digital experiences.
+As the Founder of DevSquad, I love turning ideas into real-world products and working on solutions that create impact.
 
-Here are some ideas to get you started:
+Currently focused on improving my full-stack skills, exploring AI-powered applications, and growing as a developer and creator.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always learning, building, and pushing limits 🚀
+
+🌐 Socials:
+Instagram LinkedIn email
+
+💻 Tech Stack:
+TypeScript Python JavaScript HTML5 Firebase Google Cloud Netlify Vercel Flask FastAPI Express.js JWT NPM NestJS Next JS NodeJS React React Native Vite Vue.js Three js Supabase MongoDB Postgres Redis Firebase Canva Dribbble Figma Framer NumPy Pandas PyTorch TensorFlow scikit-learn GitHub Notion Kubernetes Portfolio Postman Twilio
+
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
+✍️ Random Dev Quote
+
+
+🔝 Top Contributed Repo
+
+
